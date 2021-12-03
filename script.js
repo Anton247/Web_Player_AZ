@@ -2,11 +2,11 @@ $(document).ready(function(){
 
 
   var playlist = [{
-      title:"Hidden",
-      artist:"Miaow",
-      mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
-      poster: "https://i.imgur.com/sCbrzQa.png"
+      title:"All time",
+      artist:"Jon Bellion",
+      mp3:"music/Jon Bellion-all time low slowed down.mp3",
+      oga:"music/Jon Bellion-all time low slowed down.ogg",
+      poster: "posters/all time low Jon Bellion.png"
     },{
       title:"Cro Magnon Man",
       artist:"The Stark Palace",
